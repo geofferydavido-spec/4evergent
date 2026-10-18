@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-63-document-the-authentication-api-surface-10"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-63-document-the-authentication-api-surface-10": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-63-document-the-authentication-api-surface-10"
+  ]
+}
